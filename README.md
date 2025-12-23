@@ -53,7 +53,7 @@ Due to Power BI Service limitations, the dashboard is shared as a PBIX file alon
 
 ## Contact
 **Prateek Sharma**  
-📧 prateek.sharma8368@gmail.com  
+📧 Email: prateek.sharma8368@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/PASTE-YOUR-LINKEDIN-HERE
 ## Dashboard Preview (Page 1)
 Below is a preview of the **first page** of the Power BI dashboard, which provides a high-level summary of business performance.

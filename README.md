@@ -61,4 +61,4 @@ Below is a preview of the **first page** of the Power BI dashboard, which provid
 ---
 
 📸 **Page 1 – Executive Overview**  
-![Dashboard Preview]([PASTE_IMAGE_PATH_HERE](https://github.com/PrateekSharma8368/AdventureWorks-PowerBI-Dashboard/blob/main/Executive%20Dashboard%20SS.PNG))
+![Dashboard Preview](https://github.com/PrateekSharma8368/AdventureWorks-PowerBI-Dashboard/blob/main/Executive%20Dashboard%20SS.PNG)
